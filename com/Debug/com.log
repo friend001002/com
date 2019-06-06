@@ -1,0 +1,299 @@
+﻿  com.cpp
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\vcruntime_exception.h(25): warning C4820: '__std_exception_data': '3' bytes padding added after data member '__std_exception_data::_DoFree'
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\xmemory0(122): warning C4365: 'argument': conversion from 'long' to 'unsigned int', signed/unsigned mismatch
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\xmemory0(132): warning C4365: 'argument': conversion from 'long' to 'unsigned int', signed/unsigned mismatch
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\vcruntime_typeinfo.h(44): warning C4820: '__std_type_info_data': '3' bytes padding added after data member '__std_type_info_data::_DecoratedName'
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\xutility(4183): warning C4820: 'std::_Yarn<char>': '3' bytes padding added after data member 'std::_Yarn<char>::_Nul'
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\xlocinfo(228): note: see reference to class template instantiation 'std::_Yarn<char>' being compiled
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\xutility(4183): warning C4820: 'std::_Yarn<wchar_t>': '2' bytes padding added after data member 'std::_Yarn<wchar_t>::_Nul'
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\xlocinfo(230): note: see reference to class template instantiation 'std::_Yarn<wchar_t>' being compiled
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\xlocale(247): warning C4820: 'std::locale::_Locimp': '3' bytes padding added after data member 'std::locale::_Locimp::_Xparent'
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\xlocale(488): warning C4820: 'std::locale': '3' bytes padding added after base class 'std::_Crt_new_delete'
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\xlocale(330): warning C4571: Informational: catch(...) semantics changed since Visual C++ 7.1; structured exceptions (SEH) are no longer caught
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\xlocale(356): warning C4571: Informational: catch(...) semantics changed since Visual C++ 7.1; structured exceptions (SEH) are no longer caught
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\xlocale(812): warning C4625: 'std::codecvt_base': copy constructor was implicitly defined as deleted
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\xlocale(812): warning C4626: 'std::codecvt_base': assignment operator was implicitly defined as deleted
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\xlocale(1353): warning C4625: 'std::codecvt<char16_t,char,_Mbstatet>': copy constructor was implicitly defined as deleted
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\xlocale(1353): warning C4626: 'std::codecvt<char16_t,char,_Mbstatet>': assignment operator was implicitly defined as deleted
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\xlocale(1678): warning C4625: 'std::codecvt<char32_t,char,_Mbstatet>': copy constructor was implicitly defined as deleted
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\xlocale(1678): warning C4626: 'std::codecvt<char32_t,char,_Mbstatet>': assignment operator was implicitly defined as deleted
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\xlocale(1922): warning C4625: 'std::codecvt<wchar_t,char,_Mbstatet>': copy constructor was implicitly defined as deleted
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\xlocale(1922): warning C4626: 'std::codecvt<wchar_t,char,_Mbstatet>': assignment operator was implicitly defined as deleted
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\xlocale(2171): warning C4625: 'std::codecvt<unsigned short,char,_Mbstatet>': copy constructor was implicitly defined as deleted
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\xlocale(2171): warning C4626: 'std::codecvt<unsigned short,char,_Mbstatet>': assignment operator was implicitly defined as deleted
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\xlocale(2219): warning C4625: 'std::ctype_base': copy constructor was implicitly defined as deleted
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\xlocale(2219): warning C4626: 'std::ctype_base': assignment operator was implicitly defined as deleted
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\xlocale(2721): warning C4625: 'std::ctype<char>': copy constructor was implicitly defined as deleted
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\xlocale(2721): warning C4626: 'std::ctype<char>': assignment operator was implicitly defined as deleted
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\xlocale(2962): warning C4625: 'std::ctype<wchar_t>': copy constructor was implicitly defined as deleted
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\xlocale(2962): warning C4626: 'std::ctype<wchar_t>': assignment operator was implicitly defined as deleted
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\xlocale(3205): warning C4625: 'std::ctype<unsigned short>': copy constructor was implicitly defined as deleted
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\xlocale(3205): warning C4626: 'std::ctype<unsigned short>': assignment operator was implicitly defined as deleted
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\xlocale(3250): warning C4625: 'std::ctype_byname<char>': copy constructor was implicitly defined as deleted
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\xlocale(3250): warning C4626: 'std::ctype_byname<char>': assignment operator was implicitly defined as deleted
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\xlocale(943): warning C4625: 'std::codecvt<char,char,_Mbstatet>': copy constructor was implicitly defined as deleted
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\xlocale(3255): note: see reference to class template instantiation 'std::codecvt<char,char,_Mbstatet>' being compiled
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\xlocale(943): warning C4626: 'std::codecvt<char,char,_Mbstatet>': assignment operator was implicitly defined as deleted
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\system_error(498): warning C4625: 'std::_Generic_error_category': copy constructor was implicitly defined as deleted
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\system_error(498): warning C5026: 'std::_Generic_error_category': move constructor was implicitly defined as deleted
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\system_error(498): warning C4626: 'std::_Generic_error_category': assignment operator was implicitly defined as deleted
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\system_error(498): warning C5027: 'std::_Generic_error_category': move assignment operator was implicitly defined as deleted
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\system_error(526): warning C4625: 'std::_Iostream_error_category': copy constructor was implicitly defined as deleted
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\system_error(526): warning C5026: 'std::_Iostream_error_category': move constructor was implicitly defined as deleted
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\system_error(526): warning C4626: 'std::_Iostream_error_category': assignment operator was implicitly defined as deleted
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\system_error(526): warning C5027: 'std::_Iostream_error_category': move assignment operator was implicitly defined as deleted
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\system_error(574): warning C4625: 'std::_System_error_category': copy constructor was implicitly defined as deleted
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\system_error(574): warning C5026: 'std::_System_error_category': move constructor was implicitly defined as deleted
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\system_error(574): warning C4626: 'std::_System_error_category': assignment operator was implicitly defined as deleted
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\system_error(574): warning C5027: 'std::_System_error_category': move assignment operator was implicitly defined as deleted
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\xiosbase(657): warning C4820: 'std::ios_base': '4' bytes padding added after data member 'std::ios_base::_Ploc'
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\xlocnum(263): warning C4820: 'std::numpunct<char>': '2' bytes padding added after data member 'std::numpunct<char>::_Kseparator'
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\xlocnum(1848): note: see reference to class template instantiation 'std::numpunct<char>' being compiled
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\xlocnum(265): warning C4625: 'std::numpunct<char>': copy constructor was implicitly defined as deleted
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\xlocnum(265): warning C4626: 'std::numpunct<char>': assignment operator was implicitly defined as deleted
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\xlocnum(1394): warning C4625: 'std::num_get<char,std::istreambuf_iterator<char,std::char_traits<char>>>': copy constructor was implicitly defined as deleted
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\xlocnum(1850): note: see reference to class template instantiation 'std::num_get<char,std::istreambuf_iterator<char,std::char_traits<char>>>' being compiled
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\xlocnum(1394): warning C4626: 'std::num_get<char,std::istreambuf_iterator<char,std::char_traits<char>>>': assignment operator was implicitly defined as deleted
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\xlocnum(1833): warning C4625: 'std::num_put<char,std::ostreambuf_iterator<char,std::char_traits<char>>>': copy constructor was implicitly defined as deleted
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\xlocnum(1852): note: see reference to class template instantiation 'std::num_put<char,std::ostreambuf_iterator<char,std::char_traits<char>>>' being compiled
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\xlocnum(1833): warning C4626: 'std::num_put<char,std::ostreambuf_iterator<char,std::char_traits<char>>>': assignment operator was implicitly defined as deleted
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\xlocnum(265): warning C4625: 'std::numpunct<wchar_t>': copy constructor was implicitly defined as deleted
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\xlocnum(1854): note: see reference to class template instantiation 'std::numpunct<wchar_t>' being compiled
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\xlocnum(265): warning C4626: 'std::numpunct<wchar_t>': assignment operator was implicitly defined as deleted
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\xlocnum(1394): warning C4625: 'std::num_get<wchar_t,std::istreambuf_iterator<wchar_t,std::char_traits<wchar_t>>>': copy constructor was implicitly defined as deleted
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\xlocnum(1856): note: see reference to class template instantiation 'std::num_get<wchar_t,std::istreambuf_iterator<wchar_t,std::char_traits<wchar_t>>>' being compiled
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\xlocnum(1394): warning C4626: 'std::num_get<wchar_t,std::istreambuf_iterator<wchar_t,std::char_traits<wchar_t>>>': assignment operator was implicitly defined as deleted
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\xlocnum(1833): warning C4625: 'std::num_put<wchar_t,std::ostreambuf_iterator<wchar_t,std::char_traits<wchar_t>>>': copy constructor was implicitly defined as deleted
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\xlocnum(1858): note: see reference to class template instantiation 'std::num_put<wchar_t,std::ostreambuf_iterator<wchar_t,std::char_traits<wchar_t>>>' being compiled
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\xlocnum(1833): warning C4626: 'std::num_put<wchar_t,std::ostreambuf_iterator<wchar_t,std::char_traits<wchar_t>>>': assignment operator was implicitly defined as deleted
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\ios(188): warning C4820: 'std::basic_ios<char,std::char_traits<char>>': '7' bytes padding added after data member 'std::basic_ios<char,std::char_traits<char>>::_Fillch'
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\ios(194): note: see reference to class template instantiation 'std::basic_ios<char,std::char_traits<char>>' being compiled
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\ios(188): warning C4820: 'std::basic_ios<wchar_t,std::char_traits<wchar_t>>': '6' bytes padding added after data member 'std::basic_ios<wchar_t,std::char_traits<wchar_t>>::_Fillch'
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\ios(196): note: see reference to class template instantiation 'std::basic_ios<wchar_t,std::char_traits<wchar_t>>' being compiled
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\istream(743): warning C4820: 'std::basic_istream<char,std::char_traits<char>>': '4' bytes padding added after data member 'std::basic_istream<char,std::char_traits<char>>::_Chcount'
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\istream(773): note: see reference to class template instantiation 'std::basic_istream<char,std::char_traits<char>>' being compiled
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\istream(743): warning C4820: 'std::basic_istream<wchar_t,std::char_traits<wchar_t>>': '4' bytes padding added after data member 'std::basic_istream<wchar_t,std::char_traits<wchar_t>>::_Chcount'
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\istream(774): note: see reference to class template instantiation 'std::basic_istream<wchar_t,std::char_traits<wchar_t>>' being compiled
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\istream(834): warning C4820: 'std::basic_iostream<char,std::char_traits<char>>': '4' bytes padding added after base class 'std::basic_ostream<char,std::char_traits<char>>'
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\istream(839): note: see reference to class template instantiation 'std::basic_iostream<char,std::char_traits<char>>' being compiled
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\istream(834): warning C4820: 'std::basic_iostream<char,std::char_traits<char>>': '4' bytes padding added after data member '<alignment member>'
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\istream(834): warning C4820: 'std::basic_iostream<wchar_t,std::char_traits<wchar_t>>': '4' bytes padding added after base class 'std::basic_ostream<wchar_t,std::char_traits<wchar_t>>'
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\istream(840): note: see reference to class template instantiation 'std::basic_iostream<wchar_t,std::char_traits<wchar_t>>' being compiled
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\istream(834): warning C4820: 'std::basic_iostream<wchar_t,std::char_traits<wchar_t>>': '4' bytes padding added after data member '<alignment member>'
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\xatomic.h(158): warning C4365: 'argument': conversion from 'long' to 'unsigned int', signed/unsigned mismatch
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\xatomic.h(177): warning C4365: 'argument': conversion from 'long' to 'unsigned int', signed/unsigned mismatch
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\xatomic.h(280): warning C4365: 'argument': conversion from 'long' to 'unsigned int', signed/unsigned mismatch
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\xatomic.h(343): warning C4365: 'argument': conversion from 'long' to 'unsigned int', signed/unsigned mismatch
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\xatomic.h(398): warning C4365: 'argument': conversion from 'long' to 'unsigned int', signed/unsigned mismatch
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\xatomic.h(501): warning C4365: 'argument': conversion from 'long' to 'unsigned int', signed/unsigned mismatch
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\xatomic.h(564): warning C4365: 'argument': conversion from 'long' to 'unsigned int', signed/unsigned mismatch
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\xatomic.h(624): warning C4365: 'argument': conversion from 'long' to 'unsigned int', signed/unsigned mismatch
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\xatomic.h(678): warning C4365: 'argument': conversion from 'long' to 'unsigned int', signed/unsigned mismatch
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\xatomic.h(732): warning C4365: 'argument': conversion from 'long' to 'unsigned int', signed/unsigned mismatch
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\xatomic.h(797): warning C4365: 'argument': conversion from 'long' to 'unsigned int', signed/unsigned mismatch
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\xatomic.h(860): warning C4365: 'argument': conversion from 'long' to 'unsigned int', signed/unsigned mismatch
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\xatomic.h(914): warning C4365: 'argument': conversion from 'long' to 'unsigned int', signed/unsigned mismatch
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\xatomic.h(1013): warning C4365: 'argument': conversion from 'long' to 'unsigned int', signed/unsigned mismatch
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\xatomic.h(1076): warning C4365: 'argument': conversion from 'long' to 'unsigned int', signed/unsigned mismatch
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\xatomic.h(1136): warning C4365: 'argument': conversion from 'long' to 'unsigned int', signed/unsigned mismatch
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\xatomic.h(1190): warning C4365: 'argument': conversion from 'long' to 'unsigned int', signed/unsigned mismatch
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\xatomic.h(1244): warning C4365: 'argument': conversion from 'long' to 'unsigned int', signed/unsigned mismatch
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\xatomic.h(1309): warning C4365: 'argument': conversion from 'long' to 'unsigned int', signed/unsigned mismatch
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\xatomic.h(1372): warning C4365: 'argument': conversion from 'long' to 'unsigned int', signed/unsigned mismatch
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\xatomic.h(1426): warning C4365: 'argument': conversion from 'long' to 'unsigned int', signed/unsigned mismatch
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\xatomic.h(1525): warning C4365: 'argument': conversion from 'long' to 'unsigned int', signed/unsigned mismatch
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\xatomic.h(1588): warning C4365: 'argument': conversion from 'long' to 'unsigned int', signed/unsigned mismatch
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\xatomic.h(1648): warning C4365: 'argument': conversion from 'long' to 'unsigned int', signed/unsigned mismatch
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\xatomic.h(1702): warning C4365: 'argument': conversion from 'long' to 'unsigned int', signed/unsigned mismatch
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\xatomic.h(1756): warning C4365: 'argument': conversion from 'long' to 'unsigned int', signed/unsigned mismatch
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\xatomic.h(1827): warning C4365: 'argument': conversion from 'long' to 'unsigned int', signed/unsigned mismatch
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\xatomic.h(1903): warning C4365: 'argument': conversion from 'long' to 'unsigned int', signed/unsigned mismatch
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\xatomic.h(1957): warning C4365: 'argument': conversion from 'long' to 'unsigned int', signed/unsigned mismatch
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\xatomic.h(2056): warning C4365: 'argument': conversion from 'long' to 'unsigned int', signed/unsigned mismatch
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\xatomic.h(2119): warning C4365: 'argument': conversion from 'long' to 'unsigned int', signed/unsigned mismatch
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\xatomic.h(2179): warning C4365: 'argument': conversion from 'long' to 'unsigned int', signed/unsigned mismatch
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\xatomic.h(2233): warning C4365: 'argument': conversion from 'long' to 'unsigned int', signed/unsigned mismatch
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\xatomic.h(2287): warning C4365: 'argument': conversion from 'long' to 'unsigned int', signed/unsigned mismatch
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\xatomic.h(2312): warning C4365: 'argument': conversion from 'long' to 'unsigned int', signed/unsigned mismatch
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\xatomic.h(2335): warning C4365: 'argument': conversion from 'long' to 'unsigned int', signed/unsigned mismatch
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\winbase.h(7417): warning C5039: 'TpSetCallbackCleanupGroup': pointer or reference to potentially throwing function passed to extern C function under -EHc. Undefined behavior may occur if this function throws an exception.
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\winioctl.h(9989): warning C4668: '_WIN32_WINNT_WIN10_TH2' is not defined as a preprocessor macro, replacing with '0' for '#if/#elif'
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\winioctl.h(9995): warning C4668: '_WIN32_WINNT_WIN10_RS1' is not defined as a preprocessor macro, replacing with '0' for '#if/#elif'
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\winioctl.h(10000): warning C4668: '_WIN32_WINNT_WIN10_TH2' is not defined as a preprocessor macro, replacing with '0' for '#if/#elif'
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\winioctl.h(10004): warning C4668: '_WIN32_WINNT_WIN10_TH2' is not defined as a preprocessor macro, replacing with '0' for '#if/#elif'
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\winioctl.h(10011): warning C4668: '_WIN32_WINNT_WIN10_RS2' is not defined as a preprocessor macro, replacing with '0' for '#if/#elif'
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\winioctl.h(10021): warning C4668: '_WIN32_WINNT_WIN10_RS2' is not defined as a preprocessor macro, replacing with '0' for '#if/#elif'
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\winioctl.h(10025): warning C4668: '_WIN32_WINNT_WIN10_TH2' is not defined as a preprocessor macro, replacing with '0' for '#if/#elif'
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\winioctl.h(10030): warning C4668: '_WIN32_WINNT_WIN10_RS3' is not defined as a preprocessor macro, replacing with '0' for '#if/#elif'
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\winioctl.h(10037): warning C4668: '_WIN32_WINNT_WIN10_RS4' is not defined as a preprocessor macro, replacing with '0' for '#if/#elif'
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\winioctl.h(10040): warning C4668: '_WIN32_WINNT_WIN10_RS1' is not defined as a preprocessor macro, replacing with '0' for '#if/#elif'
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\winioctl.h(10043): warning C4668: '_WIN32_WINNT_WIN10_RS4' is not defined as a preprocessor macro, replacing with '0' for '#if/#elif'
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\winioctl.h(10048): warning C4668: '_WIN32_WINNT_WIN10_RS1' is not defined as a preprocessor macro, replacing with '0' for '#if/#elif'
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\winioctl.h(10051): warning C4668: '_WIN32_WINNT_WIN10_RS5' is not defined as a preprocessor macro, replacing with '0' for '#if/#elif'
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\winioctl.h(10246): warning C4668: '_WIN32_WINNT_WIN10_RS2' is not defined as a preprocessor macro, replacing with '0' for '#if/#elif'
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\winioctl.h(10270): warning C4668: '_WIN32_WINNT_WIN10_RS5' is not defined as a preprocessor macro, replacing with '0' for '#if/#elif'
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\winioctl.h(10831): warning C4668: '_WIN32_WINNT_WIN10_RS4' is not defined as a preprocessor macro, replacing with '0' for '#if/#elif'
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\winioctl.h(13662): warning C4668: '_WIN32_WINNT_WIN10_RS5' is not defined as a preprocessor macro, replacing with '0' for '#if/#elif'
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\winioctl.h(13844): warning C4668: '_WIN32_WINNT_WIN10_RS5' is not defined as a preprocessor macro, replacing with '0' for '#if/#elif'
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\winioctl.h(13947): warning C4668: '_WIN32_WINNT_WIN10_RS5' is not defined as a preprocessor macro, replacing with '0' for '#if/#elif'
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\winioctl.h(14043): warning C4668: '_WIN32_WINNT_WIN10_RS5' is not defined as a preprocessor macro, replacing with '0' for '#if/#elif'
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\winioctl.h(14147): warning C4668: '_WIN32_WINNT_WIN10_RS5' is not defined as a preprocessor macro, replacing with '0' for '#if/#elif'
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\winioctl.h(14804): warning C4668: '_WIN32_WINNT_WIN10_RS2' is not defined as a preprocessor macro, replacing with '0' for '#if/#elif'
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\winioctl.h(14821): warning C4668: '_WIN32_WINNT_WIN10_RS3' is not defined as a preprocessor macro, replacing with '0' for '#if/#elif'
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\winioctl.h(14838): warning C4668: '_WIN32_WINNT_WIN10_RS3' is not defined as a preprocessor macro, replacing with '0' for '#if/#elif'
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\winioctl.h(14857): warning C4668: '_WIN32_WINNT_WIN10_RS2' is not defined as a preprocessor macro, replacing with '0' for '#if/#elif'
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\winioctl.h(14976): warning C4668: '_WIN32_WINNT_WIN10_RS3' is not defined as a preprocessor macro, replacing with '0' for '#if/#elif'
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\winioctl.h(15126): warning C4668: '_WIN32_WINNT_WIN10_RS4' is not defined as a preprocessor macro, replacing with '0' for '#if/#elif'
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\winioctl.h(15139): warning C4668: '_WIN32_WINNT_WIN10_RS4' is not defined as a preprocessor macro, replacing with '0' for '#if/#elif'
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\winioctl.h(15367): warning C4668: '_WIN32_WINNT_WIN10_RS1' is not defined as a preprocessor macro, replacing with '0' for '#if/#elif'
+d:\visual_studio_projects\c++\study\com\com\com.cpp(140): warning C4820: 'C_a': '2' bytes padding added after data member 'C_a::refs_'
+d:\visual_studio_projects\c++\study\com\com\com.cpp(140): warning C4625: 'C_a': copy constructor was implicitly defined as deleted
+d:\visual_studio_projects\c++\study\com\com\com.cpp(140): warning C4626: 'C_a': assignment operator was implicitly defined as deleted
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\streambuf(710): warning C4820: 'std::ostreambuf_iterator<wchar_t,std::char_traits<wchar_t>>': '3' bytes padding added after data member 'std::ostreambuf_iterator<wchar_t,std::char_traits<wchar_t>>::_Failed'
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\xlocnum(1623): note: see reference to class template instantiation 'std::ostreambuf_iterator<wchar_t,std::char_traits<wchar_t>>' being compiled
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\xlocnum(1623): note: while compiling class template member function '_OutIt std::num_put<wchar_t,_OutIt>::do_put(_OutIt,std::ios_base &,_Elem,const void *) const'
+          with
+          [
+              _OutIt=std::ostreambuf_iterator<wchar_t,std::char_traits<wchar_t>>,
+              _Elem=wchar_t
+          ]
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\xlocnum(1858): note: see reference to class template instantiation 'std::num_put<wchar_t,std::ostreambuf_iterator<wchar_t,std::char_traits<wchar_t>>>' being compiled
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\xlocnum(1616): warning C4774: 'sprintf_s' : format string expected in argument 3 is not a string literal
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\xlocnum(1616): note: e.g. instead of printf(name); use printf("%s", name); because format specifiers in 'name' may pose a security issue
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\xlocnum(1616): note: consider using constexpr specifier for named string literals
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\xlocnum(1599): note: while compiling class template member function '_OutIt std::num_put<wchar_t,_OutIt>::do_put(_OutIt,std::ios_base &,_Elem,long double) const'
+          with
+          [
+              _OutIt=std::ostreambuf_iterator<wchar_t,std::char_traits<wchar_t>>,
+              _Elem=wchar_t
+          ]
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\xlocnum(1592): warning C4774: 'sprintf_s' : format string expected in argument 3 is not a string literal
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\xlocnum(1592): note: e.g. instead of printf(name); use printf("%s", name); because format specifiers in 'name' may pose a security issue
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\xlocnum(1592): note: consider using constexpr specifier for named string literals
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\xlocnum(1575): note: while compiling class template member function '_OutIt std::num_put<wchar_t,_OutIt>::do_put(_OutIt,std::ios_base &,_Elem,double) const'
+          with
+          [
+              _OutIt=std::ostreambuf_iterator<wchar_t,std::char_traits<wchar_t>>,
+              _Elem=wchar_t
+          ]
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\xlocnum(1569): warning C4774: 'sprintf_s' : format string expected in argument 3 is not a string literal
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\xlocnum(1569): note: e.g. instead of printf(name); use printf("%s", name); because format specifiers in 'name' may pose a security issue
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\xlocnum(1569): note: consider using constexpr specifier for named string literals
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\xlocnum(1565): note: while compiling class template member function '_OutIt std::num_put<wchar_t,_OutIt>::do_put(_OutIt,std::ios_base &,_Elem,unsigned __int64) const'
+          with
+          [
+              _OutIt=std::ostreambuf_iterator<wchar_t,std::char_traits<wchar_t>>,
+              _Elem=wchar_t
+          ]
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\xlocnum(1559): warning C4774: 'sprintf_s' : format string expected in argument 3 is not a string literal
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\xlocnum(1559): note: e.g. instead of printf(name); use printf("%s", name); because format specifiers in 'name' may pose a security issue
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\xlocnum(1559): note: consider using constexpr specifier for named string literals
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\xlocnum(1555): note: while compiling class template member function '_OutIt std::num_put<wchar_t,_OutIt>::do_put(_OutIt,std::ios_base &,_Elem,__int64) const'
+          with
+          [
+              _OutIt=std::ostreambuf_iterator<wchar_t,std::char_traits<wchar_t>>,
+              _Elem=wchar_t
+          ]
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\xlocnum(1549): warning C4774: 'sprintf_s' : format string expected in argument 3 is not a string literal
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\xlocnum(1549): note: e.g. instead of printf(name); use printf("%s", name); because format specifiers in 'name' may pose a security issue
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\xlocnum(1549): note: consider using constexpr specifier for named string literals
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\xlocnum(1545): note: while compiling class template member function '_OutIt std::num_put<wchar_t,_OutIt>::do_put(_OutIt,std::ios_base &,_Elem,unsigned long) const'
+          with
+          [
+              _OutIt=std::ostreambuf_iterator<wchar_t,std::char_traits<wchar_t>>,
+              _Elem=wchar_t
+          ]
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\xlocnum(1539): warning C4774: 'sprintf_s' : format string expected in argument 3 is not a string literal
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\xlocnum(1539): note: e.g. instead of printf(name); use printf("%s", name); because format specifiers in 'name' may pose a security issue
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\xlocnum(1539): note: consider using constexpr specifier for named string literals
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\xlocnum(1535): note: while compiling class template member function '_OutIt std::num_put<wchar_t,_OutIt>::do_put(_OutIt,std::ios_base &,_Elem,long) const'
+          with
+          [
+              _OutIt=std::ostreambuf_iterator<wchar_t,std::char_traits<wchar_t>>,
+              _Elem=wchar_t
+          ]
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\streambuf(631): warning C4820: 'std::istreambuf_iterator<wchar_t,std::char_traits<wchar_t>>': '1' bytes padding added after data member 'std::istreambuf_iterator<wchar_t,std::char_traits<wchar_t>>::_Got'
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\xlocnum(775): note: see reference to class template instantiation 'std::istreambuf_iterator<wchar_t,std::char_traits<wchar_t>>' being compiled
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\xlocnum(775): note: while compiling class template member function '_InIt std::num_get<wchar_t,_InIt>::do_get(_InIt,_InIt,std::ios_base &,std::ios_base::iostate &,void *&) const'
+          with
+          [
+              _InIt=std::istreambuf_iterator<wchar_t,std::char_traits<wchar_t>>
+          ]
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\xlocnum(1856): note: see reference to class template instantiation 'std::num_get<wchar_t,std::istreambuf_iterator<wchar_t,std::char_traits<wchar_t>>>' being compiled
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\streambuf(549): warning C4820: 'std::istreambuf_iterator<wchar_t,std::char_traits<wchar_t>>::_Istreambuf_proxy': '2' bytes padding added after data member 'std::istreambuf_iterator<wchar_t,std::char_traits<wchar_t>>::_Istreambuf_proxy::_Keep'
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\xlocnum(767): note: see reference to class template instantiation 'std::istreambuf_iterator<wchar_t,std::char_traits<wchar_t>>::_Istreambuf_proxy' being compiled
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\xlocnum(763): note: while compiling class template member function '_InIt std::num_get<wchar_t,_InIt>::do_get(_InIt,_InIt,std::ios_base &,std::ios_base::iostate &,long double &) const'
+          with
+          [
+              _InIt=std::istreambuf_iterator<wchar_t,std::char_traits<wchar_t>>
+          ]
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\streambuf(710): warning C4820: 'std::ostreambuf_iterator<char,std::char_traits<char>>': '3' bytes padding added after data member 'std::ostreambuf_iterator<char,std::char_traits<char>>::_Failed'
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\xlocnum(1623): note: see reference to class template instantiation 'std::ostreambuf_iterator<char,std::char_traits<char>>' being compiled
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\xlocnum(1623): note: while compiling class template member function '_OutIt std::num_put<char,_OutIt>::do_put(_OutIt,std::ios_base &,_Elem,const void *) const'
+          with
+          [
+              _OutIt=std::ostreambuf_iterator<char,std::char_traits<char>>,
+              _Elem=char
+          ]
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\xlocnum(1852): note: see reference to class template instantiation 'std::num_put<char,std::ostreambuf_iterator<char,std::char_traits<char>>>' being compiled
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\streambuf(632): warning C4820: 'std::istreambuf_iterator<char,std::char_traits<char>>': '2' bytes padding added after data member 'std::istreambuf_iterator<char,std::char_traits<char>>::_Val'
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\xlocnum(775): note: see reference to class template instantiation 'std::istreambuf_iterator<char,std::char_traits<char>>' being compiled
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\xlocnum(775): note: while compiling class template member function '_InIt std::num_get<char,_InIt>::do_get(_InIt,_InIt,std::ios_base &,std::ios_base::iostate &,void *&) const'
+          with
+          [
+              _InIt=std::istreambuf_iterator<char,std::char_traits<char>>
+          ]
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\xlocnum(1850): note: see reference to class template instantiation 'std::num_get<char,std::istreambuf_iterator<char,std::char_traits<char>>>' being compiled
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\streambuf(549): warning C4820: 'std::istreambuf_iterator<char,std::char_traits<char>>::_Istreambuf_proxy': '3' bytes padding added after data member 'std::istreambuf_iterator<char,std::char_traits<char>>::_Istreambuf_proxy::_Keep'
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\xlocnum(767): note: see reference to class template instantiation 'std::istreambuf_iterator<char,std::char_traits<char>>::_Istreambuf_proxy' being compiled
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\xlocnum(763): note: while compiling class template member function '_InIt std::num_get<char,_InIt>::do_get(_InIt,_InIt,std::ios_base &,std::ios_base::iostate &,long double &) const'
+          with
+          [
+              _InIt=std::istreambuf_iterator<char,std::char_traits<char>>
+          ]
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\ostream(161): warning C4820: 'std::basic_ostream<char,std::char_traits<char>>::sentry': '3' bytes padding added after data member 'std::basic_ostream<char,std::char_traits<char>>::sentry::_Ok'
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\ostream(323): note: see reference to class template instantiation 'std::basic_ostream<char,std::char_traits<char>>::sentry' being compiled
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\ostream(321): note: while compiling class template member function 'std::basic_ostream<char,std::char_traits<char>> &std::basic_ostream<char,std::char_traits<char>>::operator <<(unsigned int)'
+  d:\visual_studio_projects\c++\study\com\com\com.cpp(50): note: see reference to function template instantiation 'std::basic_ostream<char,std::char_traits<char>> &std::basic_ostream<char,std::char_traits<char>>::operator <<(unsigned int)' being compiled
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\ostream(687): note: see reference to class template instantiation 'std::basic_ostream<char,std::char_traits<char>>' being compiled
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\ostream(333): warning C4571: Informational: catch(...) semantics changed since Visual C++ 7.1; structured exceptions (SEH) are no longer caught
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\ostream(288): warning C4571: Informational: catch(...) semantics changed since Visual C++ 7.1; structured exceptions (SEH) are no longer caught
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\ostream(276): note: while compiling class template member function 'std::basic_ostream<char,std::char_traits<char>> &std::basic_ostream<char,std::char_traits<char>>::operator <<(unsigned short)'
+  d:\visual_studio_projects\c++\study\com\com\com.cpp(113): note: see reference to function template instantiation 'std::basic_ostream<char,std::char_traits<char>> &std::basic_ostream<char,std::char_traits<char>>::operator <<(unsigned short)' being compiled
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\ostream(234): warning C4571: Informational: catch(...) semantics changed since Visual C++ 7.1; structured exceptions (SEH) are no longer caught
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\ostream(222): note: while compiling class template member function 'std::basic_ostream<char,std::char_traits<char>> &std::basic_ostream<char,std::char_traits<char>>::operator <<(bool)'
+  d:\visual_studio_projects\c++\study\com\com\com.cpp(170): note: see reference to function template instantiation 'std::basic_ostream<char,std::char_traits<char>> &std::basic_ostream<char,std::char_traits<char>>::operator <<(bool)' being compiled
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\istream(129): warning C4820: 'std::basic_istream<char,std::char_traits<char>>::sentry': '3' bytes padding added after data member 'std::basic_istream<char,std::char_traits<char>>::sentry::_Ok'
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\istream(378): note: see reference to class template instantiation 'std::basic_istream<char,std::char_traits<char>>::sentry' being compiled
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\istream(374): note: while compiling class template member function 'int std::basic_istream<char,std::char_traits<char>>::get(void)'
+  d:\visual_studio_projects\c++\study\com\com\com.cpp(229): note: see reference to function template instantiation 'int std::basic_istream<char,std::char_traits<char>>::get(void)' being compiled
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\istream(773): note: see reference to class template instantiation 'std::basic_istream<char,std::char_traits<char>>' being compiled
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\istream(394): warning C4571: Informational: catch(...) semantics changed since Visual C++ 7.1; structured exceptions (SEH) are no longer caught
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\ostream(181): warning C4571: Informational: catch(...) semantics changed since Visual C++ 7.1; structured exceptions (SEH) are no longer caught
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\ostream(176): note: while compiling class template member function 'void std::basic_ostream<char,std::char_traits<char>>::_Osfx(void)'
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\ostream(139): note: see reference to function template instantiation 'void std::basic_ostream<char,std::char_traits<char>>::_Osfx(void)' being compiled
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\istream(154): warning C4571: Informational: catch(...) semantics changed since Visual C++ 7.1; structured exceptions (SEH) are no longer caught
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\istream(132): note: while compiling class template member function 'bool std::basic_istream<char,std::char_traits<char>>::_Ipfx(bool)'
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\istream(116): note: see reference to function template instantiation 'bool std::basic_istream<char,std::char_traits<char>>::_Ipfx(bool)' being compiled
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\ostream(864): warning C4571: Informational: catch(...) semantics changed since Visual C++ 7.1; structured exceptions (SEH) are no longer caught
+  d:\visual_studio_projects\c++\study\com\com\com.cpp(39): note: see reference to function template instantiation 'std::basic_ostream<char,std::char_traits<char>> &std::operator <<<std::char_traits<char>>(std::basic_ostream<char,std::char_traits<char>> &,char)' being compiled
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\ostream(826): warning C4571: Informational: catch(...) semantics changed since Visual C++ 7.1; structured exceptions (SEH) are no longer caught
+  d:\visual_studio_projects\c++\study\com\com\com.cpp(50): note: see reference to function template instantiation 'std::basic_ostream<char,std::char_traits<char>> &std::operator <<<std::char_traits<char>>(std::basic_ostream<char,std::char_traits<char>> &,const char *)' being compiled
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\ostream(558): warning C4571: Informational: catch(...) semantics changed since Visual C++ 7.1; structured exceptions (SEH) are no longer caught
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\ostream(546): note: while compiling class template member function 'std::basic_ostream<char,std::char_traits<char>> &std::basic_ostream<char,std::char_traits<char>>::put(_Elem)'
+          with
+          [
+              _Elem=char
+          ]
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\ostream(1020): note: see reference to function template instantiation 'std::basic_ostream<char,std::char_traits<char>> &std::basic_ostream<char,std::char_traits<char>>::put(_Elem)' being compiled
+          with
+          [
+              _Elem=char
+          ]
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\xlocnum(212): warning C4571: Informational: catch(...) semantics changed since Visual C++ 7.1; structured exceptions (SEH) are no longer caught
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\xlocnum(200): note: while compiling class template member function 'void std::numpunct<wchar_t>::_Init(const std::_Locinfo &,bool)'
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\xlocnum(160): note: see reference to function template instantiation 'void std::numpunct<wchar_t>::_Init(const std::_Locinfo &,bool)' being compiled
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\xlocnum(1854): note: see reference to class template instantiation 'std::numpunct<wchar_t>' being compiled
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1833): warning C4710: 'int sprintf_s(char *const ,const size_t,const char *const ,...)': function not inlined
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1833): note: see declaration of 'sprintf_s'
+  com.vcxproj -> D:\Visual_Studio_Projects\C++\Study\com\Debug\com.exe
